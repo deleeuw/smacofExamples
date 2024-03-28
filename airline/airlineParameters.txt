@@ -1,0 +1,28 @@
+nobj   18
+ndim   2
+init   2
+itmax   10000
+haveweights 0
+epsi   15
+verbose   1
+relax   0
+width   10
+precision   6
+weights   0
+ditmax   5
+depsi  6
+dverbose   0
+kitmax   5
+kepsi   6
+kverbose   0
+haveknots   3
+ordinal   1
+origin 1
+degree   3
+ninner   15
+
+
+
+
+
+

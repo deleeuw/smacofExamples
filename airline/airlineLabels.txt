@@ -1,0 +1,4 @@
+Beijing CapeTown HongKong Honolulu London 
+Melbourne Mexico Montreal Moscow NewDelhi 
+NewYork Paris RiodeJaneiro Rome SanFrancisco 
+Singapore Stockholm Tokyo
