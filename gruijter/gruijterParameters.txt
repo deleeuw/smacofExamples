@@ -17,8 +17,8 @@ degree   1
 ordinal   1
 haveknots   3
 ninner   5
-intercept  1
-anchor 0
+intercept  0
+anchor 1
 transform 1
 
 
