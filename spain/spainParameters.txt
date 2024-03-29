@@ -1,7 +1,7 @@
 nobj   47
 ndim   2
 init   2
-itmax   10000
+itmax   100000
 haveweights 0
 epsi   15
 verbose   1
@@ -15,11 +15,13 @@ dverbose   0
 kitmax   5
 kepsi   6
 kverbose   0
-haveknots   3
+haveknots   0
 ordinal   1
-origin 1
+intercept 0
+anchor 1
 degree   3
-ninner   5
+ninner   0
+transform 1
 
 
 

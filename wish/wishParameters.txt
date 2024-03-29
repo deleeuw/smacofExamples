@@ -1,31 +1,26 @@
-n = 12
-p = 2
-haveinit = 0
-typeinit = 1
-itmax = 1000
-feps = 10
-ceps = 6
-verbose = 1
-relax = 1
-width = 10
-precision = 6
-weights = 0
-jitmax = 100
-jeps = 15
-jverbose = 0
-ditmax = 20
-deps = 6
-dverbose = 0
-haveknots = 0
-ordinal = 1
-degree = 4
-ninner = 0
-percentiles = 1
-anchor = 0
-writefile = 1
-transform = 1
-hessian = 0
-labels = 0
+nobj  12
+ndim  3
+init  2
+itmax  10000
+verbose  1
+epsi  15
+width  10
+precision  6
+haveweights  0
+kitmax  100
+kepsi  15
+kverbose  0
+ditmax  20
+depsi  6
+dverbose  0
+haveknots  3
+ordinal  1
+degree  0
+ninner  30
+anchor  1   
+intercept  0
+transform  1
+
 
 
 
