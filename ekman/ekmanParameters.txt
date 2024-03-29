@@ -10,15 +10,18 @@ verbose   1
 ditmax   5
 depsi   6
 dverbose   0
-kitmax   5
+kitmax   1
 kepsi   6
 kverbose   0
-degree   0
+degree   3
 ordinal   1
-haveknots   2
-ninner   50
+haveknots   3
+ninner   5
 anchor 1
-intercept   0
+intercept 0
+transform 1
+
+
 
 
 
