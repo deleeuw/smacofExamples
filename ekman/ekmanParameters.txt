@@ -14,12 +14,12 @@ kitmax   1
 kepsi   6
 kverbose   0
 degree   0
-ordinal   1
-haveknots   3
-ninner  30
-anchor 1
+ordinal   0
+haveknots   0
+ninner  0
+anchor 0
 intercept 0
-transform 1
+transform 0
 
 
 
