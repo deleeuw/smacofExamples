@@ -13,7 +13,7 @@ dverbose   0
 kitmax   5
 kepsi   10
 kverbose   0
-degree   1
+degree   3
 ordinal   1
 haveknots   3
 ninner   5
