@@ -4,6 +4,7 @@ init   2
 width   10
 precision   6
 haveweights   0
+havelabels 1
 itmax   10000
 epsi   10
 verbose   1
@@ -13,12 +14,12 @@ dverbose   0
 kitmax   5
 kepsi   10
 kverbose   0
-degree   3
-ordinal   1
-haveknots   3
-ninner   5
-intercept  0
-anchor 1
+degree   1
+ordinal   0
+haveknots   0
+ninner   0
+intercept  1
+anchor 0
 transform 1
 
 
