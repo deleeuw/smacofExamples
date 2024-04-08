@@ -1,0 +1,19 @@
+nobj   9
+ndim   2
+init   2
+width   10
+precision   6
+haveweights   0
+havelabels 1
+itmax   10000
+epsi   10
+verbose   1
+kitmax   1
+kepsi   10
+kverbose   0
+constant 1
+
+
+
+
+
