@@ -1,0 +1,21 @@
+MA   CO   FA   CA   DI   ST   NO
+Roy   31   0   0   0   0   164   11
+Kendall1   0   16   54   18   27   13   14
+Kendall2   0   40   32   10   42   60   0
+Anderson   19   0    35   19   28   163   52
+CooleyLohnes1   14   7   35   22   17   0   56
+CooleyLohnes2   20   69   72   33   55   0   32
+Morrison1   74   0   86   14   0   84   48
+Morrison2   78   0   80   5   17   105   60
+VandeGeer1   74   19   33   12   26   0   0
+VandeGeer2   80   68   67   15   29   0   0
+Dempster   108   48   4   10   46   108    0
+Tatsuoka   109   13   5   17   39   32   46
+Harris   16   35   69   24   0   26   41
+Dagnelie   26   86   60   6   48   48   28
+GreenCarroll   290   10   6   0   8   0   2
+CailliezPages   184   48   82   42   134   0   0
+Giri   29   0   0   0   41   211   32
+Gnanadesikan   0   19   56   0   39   75   0
+Kshirsagar   0   22   45   42   60   230   59
+Thorndike   30   128   90   28   48   0   0
