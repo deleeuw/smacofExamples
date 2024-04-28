@@ -7,6 +7,7 @@ epsi  15
 width  10
 precision  6
 haveweights  0
+havelabels 1
 kitmax  100
 kepsi  15
 kverbose  0
@@ -18,8 +19,8 @@ ordinal  1
 degree  0
 ninner  30
 anchor  1   
-intercept  0
-transform  1
+intercept  1
+stress  2
 
 
 

@@ -1,0 +1,8 @@
+nrows 17
+ncols 8
+ndim 2
+init 4
+itmax 10
+epsi 10
+verbose 1
+haveweights 0

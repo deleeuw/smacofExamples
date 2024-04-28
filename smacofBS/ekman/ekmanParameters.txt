@@ -20,7 +20,7 @@ haveknots   3
 ninner  5
 anchor 1
 intercept 0
-transform 1
+stress 1
 
 
 
