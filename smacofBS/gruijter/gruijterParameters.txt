@@ -5,8 +5,7 @@ width   10
 precision   6
 haveweights   0
 havelabels 1
-haveknots   3
-itmax   1000
+itmax   10000
 epsi   10
 verbose   1
 ditmax   5
@@ -17,10 +16,10 @@ kepsi   10
 kverbose   0
 degree   3
 ordinal   1
+haveknots   3
 ninner   3
 intercept  1
 anchor 1
-stress 2
 
 
 
