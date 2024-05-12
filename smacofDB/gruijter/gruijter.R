@@ -47,3 +47,5 @@ gruijter <-
     Upper = FALSE
   )
 
+gruijterR <- as.matrix(gruijter)
+gruijterRC <- as.vector(gruijter)
