@@ -38,3 +38,5 @@ structure(c(0, 4.1699999999999999, 3.7199999999999998, 5.5600000000000005,
     "Israel", "Japan", "China", "USSR", "U.S.A.", "Yugoslavia"
     )))
 
+wish <- as.dist(wish)
+
